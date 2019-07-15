@@ -12,8 +12,14 @@ ART环境下自动化脱壳方案，基于Android 6.0方案实现，理论上可
 
 为了能够更有动力维护和更新该项目，有钱的大佬可以给点茶水费哈，下面附上微信和支付宝打赏码
 
-![Image text](https://github.com/hanbinglengyue/img/blob/master/1.jpg  | width=100)
-![Image text](https://github.com/hanbinglengyue/img/blob/master/2.jpg  | width=100)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/hanbinglengyue/img/blob/master/1.jpg ">
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/hanbinglengyue/img/blob/master/2.jpg">
+</p>
+
+
 模拟器脱壳镜像
 链接：https://pan.baidu.com/s/1LTxZqguy1OX7bZv4eRVGiQ 
 提取码：eg4q 
