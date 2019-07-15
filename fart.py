@@ -1,9 +1,5 @@
-#! /usr/bin/python
+#! /usr/bin/python2.7
 # -*- coding: utf8 -*-
-# vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
-# author: yanfeng.wyf
-# personal email: wuyanfeng@yeah.net
-
 import sys
 import struct
 import array
