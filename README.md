@@ -5,6 +5,14 @@ ART环境下自动化脱壳方案，基于Android 6.0方案实现，理论上可
 
 联系邮箱：edunwu@gmail.com 另外建立了个qq群方便交流：852777822
 
+<p align="center">
+  <img width="500" height="500" src="https://github.com/hanbinglengyue/img/blob/master/1.jpg ">
+</p>
+<p align="center">
+  <img width="500" height="500" 
+
+src="https://github.com/hanbinglengyue/img/blob/master/2.jpg">
+</p>
 
 
 
