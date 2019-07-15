@@ -6,6 +6,7 @@ ART环境下自动化脱壳方案，基于Android 6.0方案实现，理论上可
 
 
 为了能够更有动力维护和更新该项目，有钱的大佬可以给点茶水费哈，下面附上微信和支付宝打赏码
+
 微信打赏码
 <p align="center">
   <img width="300" height="300" src="https://github.com/hanbinglengyue/img/blob/master/1.JPG">
