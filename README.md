@@ -22,17 +22,20 @@ ART环境下自动化脱壳方案，基于Android 6.0方案实现，理论上可
 安装完待脱壳的应用后，点击应用，等待开始进入脱壳，点击应用后请不要再进行其他操作，此时查看logcat，过滤dumpDexFile，此时可以查看脱壳日志，脱壳后的文件位于应用的私有目录下，如应用的报名为com.example.code,则脱壳下来的dex位于/data/data/com.example.code目录下
 
 
+ 更新1.1版，修复上一个版本由于没有对脱壳的应用彻底过滤的原因导致的配置文件失效，对所有app进行脱壳的问题。
+
+
 x86模拟器脱壳镜像
-链接：https://pan.baidu.com/s/1ZygICIZZlZ6qXp_MynWFuw 
-提取码：eh58 
+链接：https://pan.baidu.com/s/1Wbpt393aytq0tBC7rpOsHg 
+提取码：8hu7 
 
 
 arm模拟器脱壳镜像
-链接：https://pan.baidu.com/s/1LTxZqguy1OX7bZv4eRVGiQ 
-提取码：eg4q 
+链接：https://pan.baidu.com/s/1_esgKyShDfTFdApu-U4-ig 
+提取码：girr 
 
 
 
 nexus5脱壳镜像
-链接：https://pan.baidu.com/s/1uCGiVm9G-e0CT7QHtOo5mQ 
-提取码：pq9f 
+链接：https://pan.baidu.com/s/1njGBKjq_HIFmHhKJ2s4pwQ 
+提取码：0vxa 
