@@ -25,17 +25,11 @@ ART环境下自动化脱壳方案，基于Android 6.0方案实现，理论上可
  更新1.1版，修复上一个版本由于没有对脱壳的应用彻底过滤的原因导致的配置文件失效，对所有app进行脱壳的问题。
 
 
-x86模拟器脱壳镜像
-链接：https://pan.baidu.com/s/1Wbpt393aytq0tBC7rpOsHg 
-提取码：8hu7 
+ 更新1.2版，修复上一个版本中存在的一些异常；重新寻找dump整体dex的点，从而解决某数字壳以及某加密壳等无法dump整体dex的问题。
+ 
+ 
+ 这里将arm模拟器、x86模拟机、nexus5镜像合并为一个包，以供下载。
 
 
-arm模拟器脱壳镜像
-链接：https://pan.baidu.com/s/1_esgKyShDfTFdApu-U4-ig 
-提取码：girr 
-
-
-
-nexus5脱壳镜像
-链接：https://pan.baidu.com/s/1njGBKjq_HIFmHhKJ2s4pwQ 
-提取码：0vxa 
+链接：https://pan.baidu.com/s/1M9RE_883wAcTbsEnIGilKw 
+提取码：q5bo 
