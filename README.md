@@ -13,13 +13,8 @@ qq群二维码
 
 为了能够更有动力维护和更新该项目，有钱的大佬可以给点茶水费哈，下面附上微信和支付宝打赏码
 
-微信打赏码
 <p align="center">
-  <img width="300" height="300" src="https://github.com/hanbinglengyue/img/blob/master/1.JPG">
-</p>
-
-支付宝打赏码
-<p align="center">
+  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/1.JPG">
   <img width="300" height="300" src="https://github.com/hanbinglengyue/img/blob/master/2.JPG">
 </p>
 
@@ -36,7 +31,7 @@ qq群二维码
  qq群共享有上传1.2.1betal版，功能更强大，让内存中的dex无处藏身，但可能还存在一些小问题，所以不在这里上传，需要的可以去群内自取。同时，鉴于有些安全爱好者手中没有nexus5真机，而在用模拟器过程中又遇到各种问题，导致不能启动，这里再在qq群公告中上传了可以启动的sdk，需要的可以自取。（依然建议使用真机，模拟器只适合体验）
  
  
- 这里将arm模拟器、x86模拟机、nexus5镜像合并为一个包，以供下载。
+ 这里将arm模拟器、x86模拟器、nexus5镜像合并为一个包，以供下载。
 
 
 链接：https://pan.baidu.com/s/1M9RE_883wAcTbsEnIGilKw 
