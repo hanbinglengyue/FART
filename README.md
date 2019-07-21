@@ -2,7 +2,13 @@
 ART环境下自动化脱壳方案，基于Android 6.0方案实现，理论上可以移植到任何ART系统上。具体原理和实现请移步看雪: https://bbs.pediy.com/thread-252630.htm
 
 
-联系邮箱：edunwu@gmail.com 另外建立了个qq群方便交流：852777822
+联系邮箱：edunwu@gmail.com 另外建立了个qq群方便交流,群内提供学术交流并上传最新相关资料，感兴趣的可以扫描二维码加群。
+
+qq群二维码
+<p align="center">
+  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/qq.JPG">
+</p>
+
 
 
 为了能够更有动力维护和更新该项目，有钱的大佬可以给点茶水费哈，下面附上微信和支付宝打赏码
