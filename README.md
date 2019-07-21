@@ -15,7 +15,7 @@ qq群二维码
 
 <p align="center">
   <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/1.JPG">
-  <img width="300" height="300" src="https://github.com/hanbinglengyue/img/blob/master/2.JPG">
+  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/2.JPG">
 </p>
 
 
