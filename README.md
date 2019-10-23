@@ -1,5 +1,8 @@
 # FART
-ART环境下基于主动调用的自动化脱壳方案，基于Android 6.0方案实现，理论上可以移植到任何ART系统上，现在已经移植到Android 8.0，很快就将移植到Android 10.0。具体原理和实现请移步看雪: https://bbs.pediy.com/thread-252630.htm
+ART环境下基于主动调用的自动化脱壳方案，基于Android 6.0方案实现，理论上可以移植到任何ART系统上，现在已经移植到Android 8.0，很快就将移植到Android 10.0。具体原理和实现请移步看雪，系列文章共计3篇，对加固和对抗感兴趣的可以看看：
+1、拨云见日：安卓APP脱壳的本质以及如何快速发现ART下的脱壳点 https://bbs.pediy.com/thread-254555.htm
+2、FART正餐前甜点：ART下几个通用简单高效的dump内存中dex方法 https://bbs.pediy.com/thread-254028.htm
+3、FART：ART环境下基于主动调用的自动化脱壳方案 https://bbs.pediy.com/thread-252630.htm
 
 
 安装完待脱壳的应用后，点击应用，等待开始进入脱壳，点击应用后请不要再进行其他操作，此时查看logcat，过滤ActivityThread此时可以看到脱壳日志，脱壳后的文件位于应用的私有目录下，如应用的报名为com.example.code,则脱壳下来的dex位于/data/data/com.example.code目录下。由于脱壳时间可能较长，与应用的大小有关，建议等待一段时间，先喝杯热咖啡。（如果发现脱壳后的dex依然不够，可以多尝试脱几次，甚至待应用脱壳结束后手动点击app，完成一些交互）。
