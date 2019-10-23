@@ -2,24 +2,6 @@
 ART环境下自动化脱壳方案，基于Android 6.0方案实现，理论上可以移植到任何ART系统上。具体原理和实现请移步看雪: https://bbs.pediy.com/thread-252630.htm
 
 
-联系邮箱：edunwu@gmail.com 另外建立了个qq群方便交流,群内提供学术交流并上传最新相关资料，感兴趣的可以扫描二维码加群。
-
-qq群二维码
-<p align="center">
-  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/qq.JPG">
-</p>
-
-
-
-为了能够更有动力维护和更新该项目，有钱的大佬可以给点茶水费哈，下面附上微信和支付宝打赏码
-
-<p align="center">
-  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/1.JPG">
-  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/2.JPG">
-</p>
-
-
-
 安装完待脱壳的应用后，点击应用，等待开始进入脱壳，点击应用后请不要再进行其他操作，此时查看logcat，过滤ActivityThread此时可以看到脱壳日志，脱壳后的文件位于应用的私有目录下，如应用的报名为com.example.code,则脱壳下来的dex位于/data/data/com.example.code目录下。由于脱壳时间可能较长，与应用的大小有关，建议等待一段时间，先喝杯热咖啡。（如果发现脱壳后的dex依然不够，可以多尝试脱几次，甚至待应用脱壳结束后手动点击app，完成一些交互）。
 
 
@@ -36,3 +18,13 @@ qq群二维码
 
 链接：https://pan.baidu.com/s/1M9RE_883wAcTbsEnIGilKw 
 提取码：q5bo 
+
+
+联系邮箱：edunwu@gmail.com 另外建立了个qq群方便交流,群内提供学术交流并上传最新相关资料，感兴趣的可以扫描二维码加群。
+
+qq群二维码
+<p align="center">
+  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/qq.JPG">
+</p>
+
+
