@@ -42,12 +42,12 @@ ART环境下基于主动调用的自动化脱壳方案，基于Android 6.0实现
  下面截图为fart的运行流程和脱壳结果
  
  <p align="center">
-  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/logcat.JPG">
+  <img width="600" height="80" src="https://github.com/hanbinglengyue/img/blob/master/logcat.JPG">
 </p>
  
  
 <p align="center">
-  <img width="200" height="200" src="https://github.com/hanbinglengyue/img/blob/master/fartresult.JPG">
+  <img width="600" height="400" src="https://github.com/hanbinglengyue/img/blob/master/fartresult.JPG">
 </p>
 
 这里将arm模拟器、nexus5镜像合并为一个包，以供下载。
