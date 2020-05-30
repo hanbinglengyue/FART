@@ -55,4 +55,8 @@ qq群二维码
 </p>
 
 --------------------------------------------------------------------------------------------------
-添加frida版的fart的两种不同实现
+添加frida版的fart的两种不同实现，各有特色。可以实现具体到对某一个类下的所有函数甚至是对某一个函数的CodeItem的dump。需要的可以去体验下其强大的脱壳能力。
+<p align="center">
+  <img width="600" height="400" src="https://github.com/hanbinglengyue/img/blob/master/frida-fart.png">
+</p>
+
