@@ -22,7 +22,7 @@ ART环境下基于主动调用的自动化脱壳方案，基于Android 6.0实现
  
  
  3、点击app图标，开始进入fart脱壳过程
- 
+
  
  接下来可以对logcat中的tag为ActivityThread的log进行过滤，等待出现"fart run over"，此时fart主动调用过程结束。脱壳下来的
  
@@ -46,7 +46,6 @@ ART环境下基于主动调用的自动化脱壳方案，基于Android 6.0实现
 链接：https://pan.baidu.com/s/18QIdXKwp5VCYAL_jxXcwEA 
 提取码：wyxm 
 
-
 联系邮箱：edunwu@gmail.com 另外建立了个qq群方便交流,群内提供学术交流并上传最新相关资料，感兴趣的可以扫描二维码加群。
 
 qq群二维码
@@ -55,7 +54,7 @@ qq群二维码
 </p>
 
 --------------------------------------------------------------------------------------------------
-添加frida版的fart的两种不同实现，各有特色。可以实现具体到对某一个类下的所有函数甚至是对某一个函数的CodeItem的dump。需要的可以去体验下其强大的脱壳能力。
+添加frida版的fart的两种不同实现，各有特色。可以实现具体到对某一个类下的所有函数甚至是对某一个函数的CodeItem的dump。需要的可以去体验下其强大的脱壳能力。(注意，测试环境为pixel Android8.0,frida-server 12.8.0)
 <p align="center">
   <img width="600" height="400" src="https://github.com/hanbinglengyue/img/blob/master/frida-fart.png">
 </p>
